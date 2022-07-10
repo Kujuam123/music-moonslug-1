@@ -1,0 +1,21 @@
+{
+    "name": "music-moonslug-1",
+    "version": "1.0.0",
+    "description": "Discord Bot For Music",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mas Kharismasn",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/opus": "^0.5.3",
+        "@discordjs/voice": "^0.8.0",
+        "discord-ytdl-core": "^5.0.4",
+        "discord.js": "^13.6.0",
+        "ffmpeg-static": "^4.4.1",
+        "libsodium-wrappers": "^0.7.10",
+        "youtube-sr": "^4.1.15",
+        "ytdl-core": "^4.11.0"
+    }
+}
